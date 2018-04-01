@@ -9,7 +9,7 @@
 <p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível. Embora as linhas no header (imagem abaixo) pareceçam estarem comentadas, não tire isso do código.</p>
 <img src="https://s14.postimg.org/yy70l54hd/image.png" widht="200" heigth="200"><br>
 
-<p>Se houver detalhes a serem acertados, serão muito poucos. O mais complicado ja foi feito</p>
+<p>Se houver detalhes a serem acertados, serão poucos. O mais complicado ja foi feito. A guia de estilos é basicamente os links para as fontes nas tags - caso se interesse em criar outras páginas para modelo institucional.</p>
 
 <p>Este design tem minha assinatura e não tem problema caso se interesse em usá-lo. Se fosse para cobrar estaria em um marktingplace. É apenas para complementar meu portifólio.</p>
 
