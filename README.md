@@ -13,6 +13,8 @@
 
 <p>Este design tem minha assinatura e não tem problema caso se interesse em usá-lo. Se fosse para cobrar estaria em um marktingplace. É apenas para complementar meu portifólio.</p>
 
+<p>Como exercício, meu caro, crie uma nova página. Nela conterá produtos (shop). Após, use o plugin para laravel que deixei aqui. O que você terá que fazer é apenas adaptar o arquivo layout para receber sua página. Este modelo seria o serve-side. Depois disponibilizo este e outros layouts para angular, pronto para receber sua API - seria o modelo atual para aplicação web client-side</p>
+
 <hr>
 
 <a href="https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/">Documentação Bootstrap ccross-browser</a>
