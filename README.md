@@ -7,17 +7,17 @@
 <p>O design esta responsivo e precisei ajustar alguns detalhes para screens até 300px. Caso estranhe a nova tag "vh", são os novos padrões css de marcação</p>
 
 <p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível, embora pareceçam estarem comentadas, não tire isso do código.</p>
-<pre>
-  <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script>
-  <![endif]-->
-  <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-  <![endif]-->
-  <!--[if lt IE 7]>
+<pre><code>
+  <!-- [if lt IE 9]> <script src="js/ie8-responsive-file-warning.js"></script>
+  <! [endif] -->
+  <!-- [if lt IE 9] >
+  < script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  < script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+  <! [endif] -->
+  <!-- [if lt IE 7] >
   <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
   <![endif]-->
-</pre>
+</code></pre>
 
 <p>Se houver detalhes a serem acertados, serão muito poucos. O mais complicado ja foi feito</p>
 
