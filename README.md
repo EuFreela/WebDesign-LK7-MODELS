@@ -1,1 +1,18 @@
 # WebDesign-LK7-MODELS
+
+<p>Seguindo todas as etapas de desenvolvimento: wireframe no papel; wireframe para aprovação do cliente; mockup (psd) para aprovação do projeto pelo cliente; aplicação das linguagens de marcação de texto e efeitos para complementar a estilização da página com JS. Após esta etapa, passamos tudo para cliente-side para backend e frontend. Este modelo trata-se de uma estrutura singlepage - eu ainda não inseri as ancoras. É apenas um modelo para complementar meu portifólio.</p>
+
+<p>Não realizei todos os testes necessários, me preocupei com o cross-browser devido a nova versão que estou usando do bootstrap (4.0), agora já estável.</p>
+
+<p>O design esta responsivo e precisei ajustar alguns detalhes para screens até 300px. Caso estranhe a nova tag "vh", são os novos padrões css de marcação</p>
+
+<p>Se houver detalhes a serem acertados, serão muito poucos. O mais complicado ja foi feito</p>
+
+<hr>
+
+<a href="https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/">Documentação Bootstrap ccross-browser</a>
+<br>
+<img src="https://s14.postimg.org/3oohuqd0x/image.png" widht="900" heigth="200"><br>
+<img src="https://s14.postimg.org/epjmzd7q9/image.png" widht="900" heigth="200"><br>
+
+<img src="https://raw.githubusercontent.com/EuFreela/WebDesign-LK7-MODELS/master/artwork/LK7-Models.jpg" widht="900" heigth="200"><br>
