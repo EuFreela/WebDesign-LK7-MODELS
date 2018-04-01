@@ -6,14 +6,14 @@
 
 <p>O design esta responsivo e precisei ajustar alguns detalhes para screens até 300px. Caso estranhe a nova tag "vh", são os novos padrões css de marcação</p>
 
-<p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível. Embora as linhas no header (imagem abaixo) pareceçam estarem comentadas, não tire isso do código.</p>
+<p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo - existem efeitos de modelagem que tornam a página mais estilosa, e por incrível que pareça o IE é o mais atrasado com relação ao que a engine do navegador deveria suportar a medida que a tecnologia avança. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível. Embora as linhas no header (imagem abaixo) pareceçam estarem comentadas, não tire isso do código.</p>
 <img src="https://s14.postimg.org/yy70l54hd/image.png" widht="200" heigth="200"><br>
 
 <p>Se houver detalhes a serem acertados, serão poucos. O mais complicado ja foi feito. A guia de estilos é basicamente os links para as fontes nas tags - caso se interesse em criar outras páginas para modelo institucional.</p>
 
 <p>Este design tem minha assinatura e não tem problema caso se interesse em usá-lo. Se fosse para cobrar estaria em um marktingplace. É apenas para complementar meu portifólio.</p>
 
-<p>Como exercício, meu caro, crie uma nova página. Nela conterá produtos (shop). Após, use o plugin para laravel que deixei aqui. O que você terá que fazer é apenas adaptar o arquivo layout para receber sua página. Este modelo seria o serve-side. Depois disponibilizo este e outros layouts para angular, pronto para receber sua API - seria o modelo atual para aplicação web client-side. Fullstack é isso, rs. Porém os empregadores não conseguem entender que para cada etapa do desenvolvimento de uma aplicação seja ela web, desktop ou mobile, é preciso um profissional para tal atividade. Quando um só faz tudo, o tempo de finalização do projeto é mais longo.</p>
+<p>Como exercício, meu caro, crie uma nova página. Nela conterá produtos (shop). Após, use o plugin para laravel que deixei aqui. O que você terá que fazer é apenas adaptar o arquivo layout para receber sua página. Este modelo seria o server-side - tudo roda no lado servidor. Depois disponibilizo este e outros layouts para angular, pronto para receber sua API - seria o modelo atual para aplicações web, o client-side - os modelos passam a rodar no lado cliente, o browser passa a renderizar a aplicação permitindo melhor performance do servidor e uma melhor experiência do usuário. Fullstack é isso, rs. Porém os empregadores não conseguem entender que para cada etapa do desenvolvimento de uma aplicação seja ela web, desktop ou mobile, é preciso um profissional para tal atividade. Quando um só faz tudo, o tempo de finalização do projeto é mais longo.</p>
 
 <hr>
 
