@@ -20,7 +20,7 @@
 <hr>
 
 <a href="https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/">Documentação Bootstrap ccross-browser</a>
-<br><b>Atenção:</b> esta etapa é do tester. Eu estou usando bootstrap 4.0, trata-se de uma nova versão do framework. Isso significa que, se teu browser não tiver compatibilidade ele não irá rodar algumas coisas, ou melhor poderá rodar mas sem o efeito esperado. Para acertar isso, basta alguns plugins, alteração de algum código, etc. Eu não me preocupei com isso por que este projeto não é final, não é para venda. Apenas um demo.</b>
+<br><b>Atenção:</b> esta etapa é do tester. Eu estou usando bootstrap 4.0, trata-se de uma nova versão do framework. Lógicamente, as mais recentes atualizações ou versões dos browser deverão rodar sem problemas. Isso significa que, se teu browser não tiver compatibilidade ele não irá rodar algumas coisas, ou melhor poderá rodar mas sem o efeito esperado. Eu testei na versão mais atual do Firefox e Chrome, os demias não. Para acertar algumas compatibilidades, basta alguns plugins, alteração de algum código, etc. Eu não me preocupei com isso por que este projeto não é final, não é para venda. Apenas um demo.</b>
 <br>
 <img src="https://s14.postimg.org/3oohuqd0x/image.png" widht="900" heigth="100"><br>
 <img src="https://s14.postimg.org/epjmzd7q9/image.png" widht="900" heigth="200"><br>
