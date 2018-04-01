@@ -6,7 +6,7 @@
 
 <p>O design esta responsivo e precisei ajustar alguns detalhes para screens até 300px. Caso estranhe a nova tag "vh", são os novos padrões css de marcação</p>
 
-<p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível, embora pareceçam estarem comentadas, não tire isso do código.</p>
+<p>O Internet Explorer é uma merda. Se gosta dele, me desculpe mas é uma merda mesmo. O novo bootstrap da suporte porém, estou forçando as versões anteriores a ser compatível. Embora as linhas no header (imagem abaixo) pareceçam estarem comentadas, não tire isso do código.</p>
 <img src="https://s14.postimg.org/yy70l54hd/image.png" widht="200" heigth="200"><br>
 
 <p>Se houver detalhes a serem acertados, serão muito poucos. O mais complicado ja foi feito</p>
