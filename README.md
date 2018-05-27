@@ -2,6 +2,7 @@
 
 ## Frontend
 
+[Demo](http://lalovela.bss.design/)
 <p>Seguindo todas as etapas de desenvolvimento: wireframe no papel; wireframe para aprovação do cliente; mockup (psd) para aprovação do projeto pelo cliente; aplicação das linguagens de marcação de texto e efeitos para complementar a estilização da página com JS. Após esta etapa, passamos tudo para o modelo cliente-side: o backend; e o frontend. Este modelo trata-se de uma estrutura singlepage - eu ainda não inseri as ancoras. É apenas um modelo para complementar meu portifólio.</p>
 
 <p>Não realizei todos os testes necessários, me preocupei com o cross-browser devido a nova versão que estou usando do bootstrap (4.0), agora já estável.</p>
